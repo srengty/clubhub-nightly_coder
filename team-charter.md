@@ -3,11 +3,11 @@
 ## Members and roles
 | Member | GitHub   | Role (Sprint 1) |    Shared hat    |
 |--------|--------  |-----------------|------------------|
-| Sreng  | @srengty | Product Owner   | business analyst |
-| Virak  | @virak   | Scrum Master    |                  |
-| Da     | @da      | Developer       |                  |
-| Vy     | @vy      | Developer       |                  |
-| Sok    | @sok     | Developer       |                  |
+| Sreng  | @srengty | Product Owner   | DevOps-hat       |
+| Virak  | @virak   | Scrum Master    | business analyst |
+| Da     | @da      | Developer       | C++              |
+| Vy     | @vy      | Developer       | UX-hat           |
+| Sok    | @sok     | Developer       | Tester           |
 
 Scrum Master rotation: Sprint 1 = Virak, Sprint 2 = Sok.
 The Product Owner stays the same all semester.
